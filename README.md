@@ -13,7 +13,7 @@ No templates. No shortcuts. Just code, chaos, and creepy vibes.
 - ⚰️ **Randomly Placed Graves** – RIP to your bugs
 - 🌫️ **Foggy Environment** – for that eerie cinematic effect
 - 💡 **Dynamic Lighting** – ambient + directional lights for the perfect spook
-- 🔊 *(optional)* Sound effects / background music (you can add this later)
+-
 
 ---
 
@@ -22,5 +22,4 @@ No templates. No shortcuts. Just code, chaos, and creepy vibes.
 - **Three.js**
 - **JavaScript**
 - **GSAP (for animations, if used)**
-- **Blender** *(if you used custom 3D models)*
 - ❤️ Pure love and 0% fear
